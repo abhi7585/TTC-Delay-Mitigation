@@ -98,4 +98,90 @@ The data manipulation process resulted in a cleaned and transformed dataset suit
 - Identification of common delay causes and locations.
 - Insights into routes experiencing the most significant delays.
 
+# TTC Delay Mitigation Project - Results
+
+## Overview
+
+This document provides a detailed view of the results obtained from the TTC Delay Mitigation Project. The analysis focused on various aspects of bus delays within the Toronto Transit Commission (TTC) network.
+
+## 1. Average Delay by Day of the Week
+
+The following image shows the average delay experienced by each day of the week. This analysis helps identify if specific days are prone to higher delays.
+
+![Average Delay by Day of the Week](images/Avg%20Delay%20by%20DoW.png)
+
+**Key Insights:**
+- Identifies days with higher average delays.
+- Supports scheduling and resource allocation adjustments based on day-specific delays.
+
+## 2. Delay Heatmap by Month and Year
+
+This heatmap visualizes the average delays across different months and years, providing a comprehensive view of delay trends over time.
+
+![Delay Heatmap by Month and Year](images/Delay%20heatmap%20by%20Month%20and%20Year.png)
+
+**Key Insights:**
+- Highlights peak months and years with significant delays.
+- Useful for planning and managing peak periods effectively.
+
+## 3. Distribution of Delay Categories
+
+This chart illustrates the distribution of different delay categories, helping to understand the frequency and severity of various delay types.
+
+![Distribution of Delay Categories](images/Distribution%20of%20Delay%20Categories.png)
+
+**Key Insights:**
+- Provides a breakdown of delay categories by frequency.
+- Assists in prioritizing actions based on the most common delay types.
+
+## 4. Distribution of Delay Incidents
+
+The image shows the distribution of different types of incidents that cause delays, providing insight into the main contributors to transit delays.
+
+![Distribution of Delay Incidents](images/Distribution%20of%20Delay%20Incidents.png)
+
+**Key Insights:**
+- Identifies major types of incidents causing delays.
+- Supports targeted interventions to address the most frequent incident types.
+
+## 5. Top 10 Locations with Most Frequent Delays
+
+This visualization highlights the top 10 locations where delays are most frequent. This information is crucial for pinpointing problem areas within the TTC network.
+
+![Top 10 Locations with Most Frequent Delays](images/Top%2010%20Locations%20MFD.png)
+
+**Key Insights:**
+- Identifies locations with the highest frequency of delays.
+- Helps in targeting infrastructure improvements and operational changes in these areas.
+
+## 6. Top 10 Routes with Highest Average Delays
+
+This chart displays the top 10 routes experiencing the highest average delays. It provides insight into which routes need attention for delay reduction.
+
+![Top 10 Routes with Highest Average Delays](images/Top%2010%20Routes%20with%20HAD.png)
+
+**Key Insights:**
+- Highlights routes with the most significant average delays.
+- Guides route optimization and scheduling adjustments.
+
+## 7. Trend of Delays Over Time
+
+This image tracks the trend of delays over time, offering a view of how delays have varied across different periods.
+
+![Trend of Delays Over Time](images/Trend%20of%20Delays%20Over%20Time.png)
+
+**Key Insights:**
+- Shows trends and variations in delays over time.
+- Useful for understanding long-term patterns and planning future interventions.
+
+## Conclusion
+
+The visualizations provided offer valuable insights into various aspects of bus delays within the TTC network. By addressing the issues highlighted in these images, the TTC can improve operational efficiency and enhance the overall commuter experience.
+
+For additional details or further analysis, please refer to the full report or contact [Abhishek Tripathi](mailto:abhi7585tripathi@gmail.com).
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 
